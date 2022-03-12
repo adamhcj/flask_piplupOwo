@@ -5,4 +5,5 @@
 <p>what it can do for now:</p>
 <ul>
 <li>random number api: <br>get a random number from 0 to 100 (inclusive) in a json format: https://flaskpiplupowo.adamho2.repl.co/random/100/ <br>try it in postman :)</li>
+<li>DBS Developers sandbox api, OAUTH 2.0: <br>2-FA example: https://flaskpiplupowo.adamho2.repl.co/dbstest/login </li>
 </ul>
